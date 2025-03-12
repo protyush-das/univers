@@ -1,0 +1,39 @@
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+p{
+
+text-align: center;
+
+}
+
+h3{
+
+    text-align: center;
+}
+
+li{
+text-align: center;
+
+}
+
+
+
+
+.images  {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+
+
+.image-gallery img {
+    max-width: 30%;
+    margin: 10px;
+    border-radius: 8px;
+   
+}
