@@ -1,0 +1,55 @@
+
+
+
+body {
+        background-image: url(https://img.freepik.com/free-photo/cosmic-landscape-space-background_23-2151955856.jpg);
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%; 
+}
+
+
+
+
+
+
+
+
+
+ UL{font-size: 20PX;}
+
+
+
+
+
+
+
+LI{color: rgb(247, 235, 131);}
+LI{ font-size: 20px;}
+UL LI::MARKER { COLOR:WHITE}
+
+
+
+
+
+
+
+H1{ 
+    color: rgb(221, 244, 255);
+    font-family:ALGERIAN;
+    font-size: 60px;
+}
+
+
+
+
+
+
+a{
+  color: rgb(247, 235, 131);
+text-decoration: none;
+}
+
+
+
