@@ -1,0 +1,56 @@
+
+
+  
+body {
+
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%; } 
+
+
+
+
+p{ font-family:ALGERIAN; color:rgb(82, 255, 255);text-align:center; font-size: 70px;}
+
+
+
+
+
+
+
+
+.list {
+position:right;
+right: 10px;
+top: 250px;
+color: white;
+font-size: 31px;}
+
+
+
+
+
+
+
+h2{color: white;}
+
+
+
+
+
+
+
+
+h1{ color: goldenrod;}
+
+
+
+
+
+
+UL LI::MARKER { COLOR:rgb(255, 244, 89)}
+
+
+
+
